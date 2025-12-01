@@ -114,3 +114,16 @@ p{
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+
+div{
+    border-radius: 5px;
+}
+
+#header{
+    border-radius: 0px;
+}
+
+#main{
+    border-radius: 0px;
+}
